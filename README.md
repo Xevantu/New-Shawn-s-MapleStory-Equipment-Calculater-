@@ -1,6 +1,6 @@
 # MapleStory Calculator
 
-This calculator tries to find the best equipment set. For any possible equipment set, the calculator finds the average damage rate by combining equipment set and player data, so it means there is no really a "best" equipment set for everyone, but rather for a player. If you want to have higher damage rate, the most common way is to spend money, lots of money, but which equipments should you buy? Why not just calculate it?
+This calculator tries to find the best equipment set. For any possible equipment set, the calculator finds the average damage rate by combining equipment set and player data, and outputs the best one. So it means there is no really a "best" equipment set for everyone, but rather for a player. If you want to have higher damage rate, the most common way is to spend money, lots of money, but which equipments should you buy? Why not precalculate it to save money?
 
 ## Download and Run
 

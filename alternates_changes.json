@@ -1,0 +1,207 @@
+{
+    "info": {
+        "description": "Make small changes by replacing some original equipments."
+    },
+    "equipment_alternates": {
+        "ring": [
+            {
+                "name": "天上的氣息",
+                "category": "accessory",
+                "superior": false,
+                "required_level": 150,
+                "set": null,
+                "upgrades_available": 1,
+                "enchant_available": 25,
+                "scroll_available": "X裝飾攻擊力券",
+                "upgrades_use": 1,
+                "enchants_use": 11,
+                "primary_stat": 25,
+                "secondary_stat": 25,
+                "all_stat_pct": 0,
+                "primary_stat_pct": 0,
+                "secondary_stat_pct": 0,
+                "attack": 25,
+                "attack_pct": 0,
+                "damage_pct": 0,
+                "boss_damage_pct": 0,
+                "ignore_defense_pct": 0,
+                "critical_rate": 0,
+                "min_critical_damage": 0,
+                "max_critical_damage": 0
+            }
+        ],
+        "pocket": [
+        ],
+        "pendant": [
+        ],
+        "weapon": [
+        ],
+        "belt": [
+            {
+                "name": "頂級培羅德烙印皮帶 (Superior Engraved Gollux Belt)",
+                "category": "accessory",
+                "superior": false,
+                "required_level": 150,
+                "set": "優良巨木靈組 (Superior Gollux Set)",
+                "upgrades_available": 4,
+                "enchant_available": 25,
+                "scroll_available": "X裝飾攻擊力券",
+                "upgrades_use": 4,
+                "enchants_use": 11,
+                "primary_stat": 60,
+                "secondary_stat": 60,
+                "all_stat_pct": 0,
+                "primary_stat_pct": 0,
+                "secondary_stat_pct": 0,
+                "attack": 35,
+                "attack_pct": 0,
+                "damage_pct": 0,
+                "boss_damage_pct": 0,
+                "ignore_defense_pct": 0,
+                "critical_rate": 0,
+                "min_critical_damage": 0,
+                "max_critical_damage": 0
+            }
+        ],
+        "cap": [
+            {
+                "name": "水瓶座冠 (Aquarius Crown)",
+                "category": "armor",
+                "superior": false,
+                "required_level": 150,
+                "set": null,
+                "upgrades_available": 23,
+                "enchant_available": 25,
+                "scroll_available": "X防具攻擊力券",
+                "upgrades_use": 23,
+                "enchants_use": 11,
+                "primary_stat": 1,
+                "secondary_stat": 1,
+                "all_stat_pct": 0,
+                "primary_stat_pct": 0,
+                "secondary_stat_pct": 0,
+                "attack": 1,
+                "attack_pct": 0,
+                "damage_pct": 0,
+                "boss_damage_pct": 0,
+                "ignore_defense_pct": 0,
+                "critical_rate": 0,
+                "min_critical_damage": 0,
+                "max_critical_damage": 0
+            }
+        ],
+        "fore_head": [
+        ],
+        "eye_acc": [
+        ],
+        "clothes": [
+        ],
+        "pants": [
+        ],
+        "shoes": [
+            {
+                "name": "塔蘭特亞泰爾靴 (Tyrant Altair Boots)",
+                "category": "armor",
+                "superior": true,
+                "required_level": 150,
+                "set": null,
+                "upgrades_available": 3,
+                "enchant_available": 15,
+                "scroll_available": "X防具攻擊力券",
+                "upgrades_use": 3,
+                "enchants_use": 7,
+                "primary_stat": 50,
+                "secondary_stat": 50,
+                "all_stat_pct": 0,
+                "primary_stat_pct": 0,
+                "secondary_stat_pct": 0,
+                "attack": 30,
+                "attack_pct": 0,
+                "damage_pct": 0,
+                "boss_damage_pct": 0,
+                "ignore_defense_pct": 0,
+                "critical_rate": 0,
+                "min_critical_damage": 0,
+                "max_critical_damage": 0
+            }
+        ],
+        "ear_acc": [
+        ],
+        "shoulder": [
+        ],
+        "gloves": [
+            {
+                "name": "塔蘭特亞泰爾手套 (Tyrant Altair Gloves)",
+                "category": "armor",
+                "superior": true,
+                "required_level": 150,
+                "set": null,
+                "upgrades_available": 3,
+                "enchant_available": 15,
+                "scroll_available": "X防具攻擊力券",
+                "upgrades_use": 3,
+                "enchants_use": 7,
+                "primary_stat": 12,
+                "secondary_stat": 12,
+                "all_stat_pct": 0,
+                "primary_stat_pct": 0,
+                "secondary_stat_pct": 0,
+                "attack": 15,
+                "attack_pct": 0,
+                "damage_pct": 0,
+                "boss_damage_pct": 0,
+                "ignore_defense_pct": 0,
+                "critical_rate": 0,
+                "min_critical_damage": 0,
+                "max_critical_damage": 0
+            }
+        ],
+        "emblem": [
+        ],
+        "badge": [
+        ],
+        "medal": [
+        ],
+        "sub_weapon": [
+        ],
+        "cape": [
+        ],
+        "heart": [
+        ],
+        "totem": [
+        ],
+        "pet": [
+        ]
+    },
+    "set": {
+        "優良巨木靈組 (Superior Gollux Set)": {
+            "2": {
+                "primary_stat": 20,
+                "secondary_stat": 20
+            },
+            "3": {
+                "attack": 35
+            },
+            "4": {
+                "boss_damage_pct": 30,
+                "ignore_defense_pct": [30]
+            }
+        }
+    },
+    "scroll": {
+        "X雙手武器攻擊力券": {
+            "primary_stat": 10,
+            "secondary_stat": 10,
+            "attack": 12
+        },
+        "X防具攻擊力券": {
+            "attack": 7
+        },
+        "X裝飾攻擊力券": {
+            "attack": 7
+        },
+        "X寵物裝備攻擊力券": {
+            "attack": 7
+        }
+    }
+}

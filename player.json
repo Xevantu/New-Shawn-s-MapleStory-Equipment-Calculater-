@@ -1,0 +1,640 @@
+{
+    "info": {
+        "name": "ShawnChang",
+        "job": "槍神 (Corsair)",
+        "level": 210
+    },
+    "ability": {
+        "base": {
+            "primary_stat": 1068,
+            "secondary_stat": 4,
+            "critical_rate": 5,
+            "min_critical_damage": 30,
+            "max_critical_damage": 50
+        },
+        "weapon": {
+            "multiplier": 1.5,
+            "attack_speed": 8.33
+        },
+        "inner_ability": {
+            "primary_stat": 37,
+            "secondary_stat": 41,
+            "attack": 0,
+            "damage_pct": 0,
+            "boss_damage_pct": 0,
+            "ignore_defense_pct": 0,
+            "damage_conversion": 0
+        },
+        "character_card": {
+            "primary_stat": 0,
+            "secondary_stat": 0,
+            "all_stat_pct": 0,
+            "primary_stat_pct": 0,
+            "secondary_stat_pct": 0,
+            "attack": 0,
+            "attack_pct": 0,
+            "damage_pct": 0,
+            "boss_damage_pct": 0,
+            "ignore_defense_pct": 0,
+            "bonus_damage": 0
+        },
+        "hyper_stat": {
+            "primary_stat": 0,
+            "secondary_stat": 0,
+            "damage_pct": 30,
+            "boss_damage_pct": 35,
+            "ignore_defense_pct": 18,
+            "critical_rate": 3,
+            "min_critical_damage": 4,
+            "max_critical_damage": 9
+        },
+        "trait": {
+            "ignore_defense_pct": 7.5,
+            "ignore_resistence_pct": 1.0
+        }
+    },
+    "equipment_size": {
+        "pendant": 1
+    },
+    "equipment": {
+        "ring": [
+            {
+                "name": "新星戒指",
+                "max_repeat": 1,
+                "primary_stat": 47,
+                "secondary_stat": 41,
+                "all_stat_pct": 0,
+                "primary_stat_pct": 30,
+                "secondary_stat_pct": 0,
+                "attack": 43,
+                "attack_pct": 0,
+                "damage_pct": 0,
+                "boss_damage_pct": 0,
+                "ignore_defense_pct": 0,
+                "critical_rate": 0,
+                "min_critical_damage": 0,
+                "max_critical_damage": 0
+            },
+            {
+                "name": "銀花戒指 (Silver Blossom Ring)",
+                "max_repeat": 1,
+                "primary_stat": 34,
+                "secondary_stat": 36,
+                "all_stat_pct": 6,
+                "primary_stat_pct": 0,
+                "secondary_stat_pct": 0,
+                "attack": 2,
+                "attack_pct": 0,
+                "damage_pct": 0,
+                "boss_damage_pct": 0,
+                "ignore_defense_pct": 0,
+                "critical_rate": 0,
+                "min_critical_damage": 0,
+                "max_critical_damage": 0
+            },
+            {
+                "name": "真‧降魔的十字旅團的戒指",
+                "max_repeat": 1,
+                "primary_stat": 33,
+                "secondary_stat": 39,
+                "all_stat_pct": 0,
+                "primary_stat_pct": 6,
+                "secondary_stat_pct": 0,
+                "attack": 3,
+                "attack_pct": 0,
+                "damage_pct": 0,
+                "boss_damage_pct": 0,
+                "ignore_defense_pct": 0,
+                "critical_rate": 0,
+                "min_critical_damage": 0,
+                "max_critical_damage": 0
+            },
+            {
+                "name": "白金十字戒指 (Platinum Cross Ring)",
+                "max_repeat": 1,
+                "primary_stat": 36,
+                "secondary_stat": 31,
+                "all_stat_pct": 0,
+                "primary_stat_pct": 0,
+                "secondary_stat_pct": 0,
+                "attack": 1,
+                "attack_pct": 0,
+                "damage_pct": 0,
+                "boss_damage_pct": 0,
+                "ignore_defense_pct": 0,
+                "critical_rate": 0,
+                "min_critical_damage": 0,
+                "max_critical_damage": 0
+            }
+        ],
+        "pocket": {
+            "name": "時間逆行",
+            "primary_stat": 17,
+            "secondary_stat": 20,
+            "all_stat_pct": 0,
+            "primary_stat_pct": 0,
+            "secondary_stat_pct": 0,
+            "attack": 11,
+            "attack_pct": 0,
+            "damage_pct": 0,
+            "boss_damage_pct": 0,
+            "ignore_defense_pct": 0,
+            "critical_rate": 0,
+            "min_critical_damage": 0,
+            "max_critical_damage": 0
+        },
+        "pendant": [
+            {
+                "name": "強力的魔性首飾",
+                "primary_stat": 72,
+                "secondary_stat": 63,
+                "all_stat_pct": 0,
+                "primary_stat_pct": 7,
+                "secondary_stat_pct": 0,
+                "attack": 2,
+                "attack_pct": 0,
+                "damage_pct": 0,
+                "boss_damage_pct": 0,
+                "ignore_defense_pct": 0,
+                "critical_rate": 0,
+                "min_critical_damage": 0,
+                "max_critical_damage": 0
+            }
+        ],
+        "weapon": {
+            "name": "夫尼爾轉輪手槍 (Fafnir Zeliska)",
+            "set": "根源深淵組(海盜) (Root Abyss Set (Pirate))",
+            "primary_stat": 136,
+            "secondary_stat": 150,
+            "all_stat_pct": 0,
+            "primary_stat_pct": 0,
+            "secondary_stat_pct": 0,
+            "attack": 280,
+            "attack_pct": 0,
+            "damage_pct": 0,
+            "boss_damage_pct": 30,
+            "ignore_defense_pct": [10, 30, 15],
+            "critical_rate": 0,
+            "min_critical_damage": 0,
+            "max_critical_damage": 0
+        },
+        "belt": {
+            "name": "神秘腰帶",
+            "primary_stat": 84,
+            "secondary_stat": 78,
+            "all_stat_pct": 0,
+            "primary_stat_pct": 6,
+            "secondary_stat_pct": 0,
+            "attack": 30,
+            "attack_pct": 0,
+            "damage_pct": 0,
+            "boss_damage_pct": 0,
+            "ignore_defense_pct": 0,
+            "critical_rate": 0,
+            "min_critical_damage": 0,
+            "max_critical_damage": 0
+        },
+        "cap": {
+            "name": "高貴的漫遊者帽 (Royal Wanderer Hat)",
+            "set": "根源深淵組(海盜) (Root Abyss Set (Pirate))",
+            "primary_stat": 80,
+            "secondary_stat": 68,
+            "all_stat_pct": 0,
+            "primary_stat_pct": 8,
+            "secondary_stat_pct": 0,
+            "attack": 62,
+            "attack_pct": 0,
+            "damage_pct": 0,
+            "boss_damage_pct": 0,
+            "ignore_defense_pct": [10],
+            "critical_rate": 0,
+            "min_critical_damage": 0,
+            "max_critical_damage": 0
+        },
+        "fore_head": {
+            "name": "波賽頓紋身 (Sweetwater Tattoo)",
+            "primary_stat": 33,
+            "secondary_stat": 33,
+            "all_stat_pct": 7,
+            "primary_stat_pct": 26,
+            "secondary_stat_pct": 0,
+            "attack": 42,
+            "attack_pct": 0,
+            "damage_pct": 0,
+            "boss_damage_pct": 0,
+            "ignore_defense_pct": 0,
+            "critical_rate": 0,
+            "min_critical_damage": 0,
+            "max_critical_damage": 0
+        },
+        "eye_acc": {
+            "name": "波賽頓眼鏡 (Sweetwater Glasses)",
+            "primary_stat": 38,
+            "secondary_stat": 38,
+            "all_stat_pct": 0,
+            "primary_stat_pct": 36,
+            "secondary_stat_pct": 0,
+            "attack": 42,
+            "attack_pct": 0,
+            "damage_pct": 0,
+            "boss_damage_pct": 0,
+            "ignore_defense_pct": 0,
+            "critical_rate": 0,
+            "min_critical_damage": 0,
+            "max_critical_damage": 0
+        },
+        "clothes": {
+            "name": "滅龍騎士盔甲 (Perfected Dragon Slayer Knight Armor)",
+            "type": "overall",
+            "primary_stat": 128,
+            "secondary_stat": 139,
+            "all_stat_pct": 13,
+            "primary_stat_pct": 23,
+            "secondary_stat_pct": 0,
+            "attack": 255,
+            "attack_pct": 0,
+            "damage_pct": 0,
+            "boss_damage_pct": 30,
+            "ignore_defense_pct": [30],
+            "critical_rate": 0,
+            "min_critical_damage": 0,
+            "max_critical_damage": 0
+        },
+        "pants": {
+        },
+        "shoes": {
+            "name": "須佐之男的鞋子 (Amaterasu's Shoes)",
+            "set": "須佐之男組 (Amaterasu Set)",
+            "primary_stat": 70,
+            "secondary_stat": 50,
+            "all_stat_pct": 0,
+            "primary_stat_pct": 6,
+            "secondary_stat_pct": 0,
+            "attack": 3,
+            "attack_pct": 0,
+            "damage_pct": 0,
+            "boss_damage_pct": 0,
+            "ignore_defense_pct": 0,
+            "critical_rate": 0,
+            "min_critical_damage": 0,
+            "max_critical_damage": 0
+        },
+        "ear_acc": {
+            "name": "頂級培羅德耳環 (Superior Gollux Earrings)",
+            "set": "優良巨木靈組 (Superior Gollux Set)",
+            "primary_stat": 43,
+            "secondary_stat": 43,
+            "all_stat_pct": 0,
+            "primary_stat_pct": 33,
+            "secondary_stat_pct": 0,
+            "attack": 76,
+            "attack_pct": 0,
+            "damage_pct": 0,
+            "boss_damage_pct": 0,
+            "ignore_defense_pct": 0,
+            "critical_rate": 0,
+            "min_critical_damage": 0,
+            "max_critical_damage": 0
+        },
+        "shoulder": {
+            "name": "須佐之男的肩章 (Amaterasu's Eqaulet)",
+            "set": "須佐之男組 (Amaterasu Set)",
+            "primary_stat": 38,
+            "secondary_stat": 34,
+            "all_stat_pct": 0,
+            "primary_stat_pct": 3,
+            "secondary_stat_pct": 0,
+            "attack": 7,
+            "attack_pct": 0,
+            "damage_pct": 0,
+            "boss_damage_pct": 0,
+            "ignore_defense_pct": 0,
+            "critical_rate": 0,
+            "min_critical_damage": 0,
+            "max_critical_damage": 0
+        },
+        "gloves": {
+            "name": "高級次元手套 (High Quality Dimension Gloves)",
+            "primary_stat": 46,
+            "secondary_stat": 46,
+            "all_stat_pct": 0,
+            "primary_stat_pct": 6,
+            "secondary_stat_pct": 3,
+            "attack": 30,
+            "attack_pct": 0,
+            "damage_pct": 0,
+            "boss_damage_pct": 0,
+            "ignore_defense_pct": 0,
+            "critical_rate": 0,
+            "min_critical_damage": 0,
+            "max_critical_damage": 0
+        },
+        "android": {
+            "name": "戰鬥機器人(女) (Battle-roid (F))",
+            "primary_stat": 0,
+            "secondary_stat": 0,
+            "all_stat_pct": 0,
+            "primary_stat_pct": 0,
+            "secondary_stat_pct": 0,
+            "attack": 0,
+            "attack_pct": 0,
+            "damage_pct": 0,
+            "boss_damage_pct": 0,
+            "ignore_defense_pct": 0,
+            "critical_rate": 0,
+            "min_critical_damage": 0,
+            "max_critical_damage": 0
+        },
+        "emblem": {
+            "name": "黃金楓葉腰帶 (Gold Maple Leaf Emblem)",
+            "primary_stat": 10,
+            "secondary_stat": 10,
+            "all_stat_pct": 0,
+            "primary_stat_pct": 9,
+            "secondary_stat_pct": 0,
+            "attack": 2,
+            "attack_pct": 0,
+            "damage_pct": 0,
+            "boss_damage_pct": 0,
+            "ignore_defense_pct": 0,
+            "critical_rate": 0,
+            "min_critical_damage": 0,
+            "max_critical_damage": 0
+        },
+        "badge": {
+            "name": "黑翼胸章",
+            "primary_stat": 11,
+            "secondary_stat": 9,
+            "all_stat_pct": 0,
+            "primary_stat_pct": 0,
+            "secondary_stat_pct": 0,
+            "attack": 9,
+            "attack_pct": 0,
+            "damage_pct": 0,
+            "boss_damage_pct": 0,
+            "ignore_defense_pct": 0,
+            "critical_rate": 0,
+            "min_critical_damage": 0,
+            "max_critical_damage": 0
+        },
+        "medal": {
+            "name": "飛龍在天派門徒 (Gold Dragon Student)",
+            "primary_stat": 15,
+            "secondary_stat": 15,
+            "all_stat_pct": 0,
+            "primary_stat_pct": 0,
+            "secondary_stat_pct": 0,
+            "attack": 5,
+            "attack_pct": 0,
+            "damage_pct": 0,
+            "boss_damage_pct": 0,
+            "ignore_defense_pct": 0,
+            "critical_rate": 0,
+            "min_critical_damage": 0,
+            "max_critical_damage": 0
+        },
+        "sub_weapon": {
+            "name": "獵鷹眼 (Falcon Eye)",
+            "primary_stat": 10,
+            "secondary_stat": 22,
+            "all_stat_pct": 0,
+            "primary_stat_pct": 0,
+            "secondary_stat_pct": 3,
+            "attack": 3,
+            "attack_pct": 12,
+            "damage_pct": 0,
+            "boss_damage_pct": 40,
+            "ignore_defense_pct": [35],
+            "critical_rate": 0,
+            "min_critical_damage": 0,
+            "max_critical_damage": 0
+        },
+        "cape": {
+            "name": "塔蘭特亞泰爾斗篷 (Tyrant Altair Cloak)",
+            "primary_stat": 165,
+            "secondary_stat": 165,
+            "all_stat_pct": 3,
+            "primary_stat_pct": 6,
+            "secondary_stat_pct": 0,
+            "attack": 54,
+            "attack_pct": 0,
+            "damage_pct": 0,
+            "boss_damage_pct": 0,
+            "ignore_defense_pct": 0,
+            "critical_rate": 0,
+            "min_critical_damage": 0,
+            "max_critical_damage": 0
+        },
+        "heart": {
+            "name": "女武神之心 (Outlaw Heart)",
+            "primary_stat": 152,
+            "secondary_stat": 142,
+            "all_stat_pct": 0,
+            "primary_stat_pct": 33,
+            "secondary_stat_pct": 0,
+            "attack": 132,
+            "attack_pct": 0,
+            "damage_pct": 0,
+            "boss_damage_pct": 0,
+            "ignore_defense_pct": 0,
+            "critical_rate": 0,
+            "min_critical_damage": 0,
+            "max_critical_damage": 0
+        },
+        "totem": [
+            {
+                "name": "輪迴碑石",
+                "primary_stat": 40,
+                "secondary_stat": 40,
+                "all_stat_pct": 0,
+                "primary_stat_pct": 0,
+                "secondary_stat_pct": 0,
+                "attack": 15,
+                "attack_pct": 0,
+                "damage_pct": 0,
+                "boss_damage_pct": 0,
+                "ignore_defense_pct": 0,
+                "critical_rate": 0,
+                "min_critical_damage": 0,
+                "max_critical_damage": 0
+            },
+            {
+                "name": "小筱精靈圖騰",
+                "primary_stat": 40,
+                "secondary_stat": 40,
+                "all_stat_pct": 0,
+                "primary_stat_pct": 0,
+                "secondary_stat_pct": 0,
+                "attack": 15,
+                "attack_pct": 0,
+                "damage_pct": 0,
+                "boss_damage_pct": 0,
+                "ignore_defense_pct": 0,
+                "critical_rate": 0,
+                "min_critical_damage": 0,
+                "max_critical_damage": 0
+            },
+            {
+                "name": "醫院長圖騰 (Hospital Director Totem)",
+                "primary_stat": 28,
+                "secondary_stat": 28,
+                "all_stat_pct": 0,
+                "primary_stat_pct": 0,
+                "secondary_stat_pct": 0,
+                "attack": 8,
+                "attack_pct": 0,
+                "damage_pct": 0,
+                "boss_damage_pct": 0,
+                "ignore_defense_pct": 0,
+                "critical_rate": 0,
+                "min_critical_damage": 0,
+                "max_critical_damage": 0
+            }
+        ],
+        "cash_ring": [
+        ],
+        "cash_weapon": {
+        },
+        "cash_cap": {
+        },
+        "cash_fore_head": {
+        },
+        "cash_eye_acc": {
+        },
+        "cash_clothes": {
+            "name": "強化初音未來套服",
+            "primary_stat": 17,
+            "attack": 12
+        },
+        "cash_pants": {
+        },
+        "cash_shoes": {
+        },
+        "cash_ear_acc": {
+        },
+        "cash_gloves": {
+        },
+        "cash_sub_weapon": {
+        },
+        "cash_cape": {
+        },
+        "pet": [
+            {
+                "name": "紅色發光的尖角",
+                "attack": 70,
+                "critical_rate": 7
+            },
+            {
+                "name": "藍色發光的尖角",
+                "attack": 70,
+                "critical_rate": 10
+            },
+            {
+                "name": "紫色發光的尖角",
+                "attack": 70,
+                "critical_rate": 13
+            }
+        ]
+    },
+    "set": {
+        "優良巨木靈組 (Superior Gollux Set)": {
+            "2": {
+                "primary_stat": 20,
+                "secondary_stat": 20
+            },
+            "3": {
+                "attack": 35
+            },
+            "4": {
+                "boss_damage_pct": 30,
+                "ignore_defense_pct": [30]
+            }
+        },
+        "根源深淵組(海盜) (Root Abyss Set (Pirate))": {
+            "2": {
+                "primary_stat": 20,
+                "secondary_stat": 20
+            },
+            "3": {
+                "attack": 50
+            },
+            "4": {
+                "boss_damage_pct": 30
+            }
+        },
+        "須佐之男組 (Amaterasu Set)": {
+            "2": {
+                "primary_stat": 10,
+                "secondary_stat": 10
+            },
+            "6": {
+                "attack": 20,
+                "boss_damage_pct": 35
+            },
+            "7": {
+                "primary_stat": 30,
+                "secondary_stat": 30,
+                "critical_rate": 8
+            },
+            "8": {
+                "all_stat_pct": 7,
+                "attack": 30,
+                "damage_pct": 10
+            }
+        }
+    },
+    "skill": {
+        "mastery": 85,
+        "maple_warrior": 15,
+        "active_damage_pct": 320,
+        "active_attack_count": 1,
+        "blessing": {
+            "attack": 24
+        },
+        "alliance_will": {
+            "primary_stat": 5,
+            "secondary_stat": 5,
+            "attack": 5
+        },
+        "link": {
+        },
+        "permanent": {
+            "primary_stat": 30,
+            "secondary_stat": 30,
+            "all_stat_pct": 0,
+            "primary_stat_pct": 0,
+            "secondary_stat_pct": 0,
+            "attack": 30,
+            "attack_pct": 0,
+            "damage_pct": 20,
+            "boss_damage_pct": 0,
+            "ignore_defense_pct": [20],
+            "critical_rate": 50,
+            "min_critical_damage": 10,
+            "max_critical_damage": 10
+        },
+        "buff": {
+            "attack": 30,
+            "attack_pct": 0,
+            "critical_rate": 12
+        }
+    },
+    "misc": {
+        "ammunition": {
+            "attack": 22
+        },
+        "title": {
+            "primary_stat": 7,
+            "secondary_stat": 7,
+            "attack": 5,
+            "ignore_defense_pct": 5
+        },
+        "monster_familiar": {
+        	"primary_stat": 10,
+        	"secondary_stat": 10
+        },
+        "bits": {
+            "attack": 13
+        }
+    }
+}

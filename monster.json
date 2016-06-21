@@ -1,0 +1,8 @@
+{
+	"type": "boss",
+    "ability": {
+        "hp": 200000000000,
+        "defense": 300,
+        "resistence": 0.5
+    }
+}

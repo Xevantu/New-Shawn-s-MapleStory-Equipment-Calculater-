@@ -8,6 +8,8 @@ This calculator tries to find the best equipment set. For any possible equipment
 2. Clone this repository to your computer.
 3. Open Jupyter Notebook and run `maplestory_calculator.ipynb`.
 
+See [Step-by-Step Installation Guide](https://github.com/ebola777/MapleStory-Calculator/wiki#step-by-step-installation-guide) from Wiki page for more details.
+
 ## How to Use
 
 See [Wiki page](https://github.com/ebola777/MapleStory-Calculator/wiki) for more information.

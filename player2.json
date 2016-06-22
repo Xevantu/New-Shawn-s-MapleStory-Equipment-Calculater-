@@ -50,7 +50,7 @@
         },
         "trait": {
             "ignore_defense_pct": 2.0,
-            "ignore_resistence_pct": 0.0
+            "ignore_resistance_pct": 0.0
         }
     },
     "equipment": {

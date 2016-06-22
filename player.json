@@ -50,7 +50,7 @@
         },
         "trait": {
             "ignore_defense_pct": 7.5,
-            "ignore_resistence_pct": 1.0
+            "ignore_resistance_pct": 1.0
         }
     },
     "equipment_size": {
@@ -615,7 +615,7 @@
         },
         "buff": {
             "attack": 30,
-            "attack_pct": 0,
+            "attack_pct": 20,
             "critical_rate": 12
         }
     },

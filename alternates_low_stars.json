@@ -1,6 +1,6 @@
 {
     "info": {
-        "description": "\n Possible best equipments.\n Potentials: \n - Normal equipments: 30% primary stat. \n - Weapons: 13% attack, 40% boss damage, 40% ignore DEF. \n - Gloves: 15% min and 15% max critical damage. \n - Emblem: 12% attack, 40% ignore DEF, 40% ignore DEF. \n - Sub weapon: 12% attack, 40% boss damage, 40% ignore DEF. \n No additional potentials. Use the best scrolls. Non-superior equipments enchanted to 11 stars. Superior equipments enchanted to 7 stars. Apply 1 hammers."
+        "description": "\n Possible best equips.\n Potentials: \n - Normal equips: 30% primary stat. \n - Weapons: 13% (151up), 12% (71up) attack, 40% boss damage, 40% ignore DEF. \n - Gloves: 16% (151up), 15% (71up) min and max critical damage. \n - Emblem: 12% attack, 40% ignore DEF, 40% ignore DEF. \n - Sub weapon: 12% attack, 40% boss damage, 40% ignore DEF. \n No additional potentials. Use the best scrolls. Non-superior equips enchanted to 11 stars. Superior equips enchanted to 7 stars. Apply 1 hammers."
     },
     "equipment_alternates": {
         "ring": [
@@ -10,10 +10,10 @@
                 "superior": false,
                 "required_level": 150,
                 "set": null,
-                "upgrades_available": 1,
+                "upgrades_available": 2,
                 "enchants_available": 25,
                 "scroll_available": "X裝飾攻擊力券",
-                "upgrades_use": 1,
+                "upgrades_use": 2,
                 "enchants_use": 11,
                 "primary_stat": 25,
                 "secondary_stat": 25,
@@ -204,7 +204,7 @@
                 "attack": 150,
                 "attack_pct": 13,
                 "damage_pct": 0,
-                "boss_damage_pct": 40,
+                "boss_damage_pct": 70,
                 "ignore_defense_pct": [10, 40],
                 "critical_rate": 0,
                 "min_critical_damage": 0,
@@ -252,7 +252,7 @@
                 "primary_stat_pct": 0,
                 "secondary_stat_pct": 0,
                 "attack": 125,
-                "attack_pct": 13,
+                "attack_pct": 12,
                 "damage_pct": 0,
                 "boss_damage_pct": 70,
                 "ignore_defense_pct": [10, 40],
@@ -835,8 +835,8 @@
                 "boss_damage_pct": 0,
                 "ignore_defense_pct": 0,
                 "critical_rate": 0,
-                "min_critical_damage": 15,
-                "max_critical_damage": 15
+                "min_critical_damage": 16,
+                "max_critical_damage": 16
             },
             {
                 "name": "波賽頓手套 (Sweetwater Gloves)",
@@ -860,8 +860,8 @@
                 "boss_damage_pct": 0,
                 "ignore_defense_pct": 0,
                 "critical_rate": 0,
-                "min_critical_damage": 15,
-                "max_critical_damage": 15
+                "min_critical_damage": 16,
+                "max_critical_damage": 16
             },
             {
                 "name": "塔蘭特亞泰爾手套 (Tyrant Altair Gloves)",
@@ -932,31 +932,6 @@
                 "primary_stat_pct": 0,
                 "secondary_stat_pct": 0,
                 "attack": 2,
-                "attack_pct": 12,
-                "damage_pct": 0,
-                "boss_damage_pct": 0,
-                "ignore_defense_pct": [40, 40],
-                "critical_rate": 0,
-                "min_critical_damage": 0,
-                "max_critical_damage": 0
-            },
-            {
-                "name": "魔王競技場腰帶 (Boss Arena Emblem)",
-                "category": "accessory",
-                "superior": false,
-                "required_level": 60,
-                "set": null,
-                "upgrades_available": 0,
-                "enchants_available": 0,
-                "scroll_available": null,
-                "upgrades_use": 0,
-                "enchants_use": 0,
-                "primary_stat": 5,
-                "secondary_stat": 5,
-                "all_stat_pct": 0,
-                "primary_stat_pct": 0,
-                "secondary_stat_pct": 0,
-                "attack": 1,
                 "attack_pct": 12,
                 "damage_pct": 0,
                 "boss_damage_pct": 0,

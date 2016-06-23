@@ -1,6 +1,6 @@
 {
     "info": {
-        "description": "Make small changes by replacing some original equipments."
+        "description": "Make small changes by replacing some original equips."
     },
     "equipment_alternates": {
         "ring": [
@@ -10,10 +10,10 @@
                 "superior": false,
                 "required_level": 150,
                 "set": null,
-                "upgrades_available": 1,
+                "upgrades_available": 2,
                 "enchants_available": 25,
                 "scroll_available": "X裝飾攻擊力券",
-                "upgrades_use": 1,
+                "upgrades_use": 2,
                 "enchants_use": 11,
                 "primary_stat": 25,
                 "secondary_stat": 25,

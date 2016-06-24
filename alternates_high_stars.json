@@ -1,6 +1,6 @@
 {
     "info": {
-        "description": "\n Possible best equips.\n Potentials: \n - Normal equips: 30% primary stat. \n - Weapons: 13% (151up), 12% (71up), 40% boss damage, 40% ignore DEF. \n - Gloves: 16% (151up), 15% (71up) min and max critical damage. \n - Emblem: 12% attack, 40% ignore DEF, 40% ignore DEF. \n - Sub weapon: 12% attack, 40% boss damage, 40% ignore DEF. \n No additional potentials. Use the best scrolls. Non-superior equips enchanted to 20 stars. Superior equips enchanted to 10 stars. Apply 1 hammers."
+        "description": "\n Possible best equips.\n Potentials: \n - Normal equips: 30% primary stat. \n - Weapons: 13% (151up), 12% (71up) attack, 40% boss damage, 40% ignore DEF. \n - Gloves: 16% (151up), 15% (71up) min and max critical damage. \n - Emblems: 12% attack, 40% ignore DEF, 40% ignore DEF. \n - Sub weapons: 12% attack, 40% boss damage, 40% ignore DEF. \n No additional potentials. Use the best scrolls. Non-superior equips enchanted to 20 stars. Superior equips enchanted to 10 stars. Apply 1 hammers."
     },
     "equipment_alternates": {
         "ring": [

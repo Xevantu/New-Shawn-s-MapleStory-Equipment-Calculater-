@@ -616,7 +616,7 @@
         "buff": {
             "attack": 30,
             "attack_pct": 20,
-            "critical_rate": 12
+            "critical_rate": 15
         }
     },
     "misc": {

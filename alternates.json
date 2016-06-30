@@ -603,7 +603,7 @@
                 "max_critical_damage": 0
             },
             {
-                "name": "Empty"
+                "name": null
             }
         ],
         "shoes": [

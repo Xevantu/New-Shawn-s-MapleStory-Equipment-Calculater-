@@ -630,8 +630,8 @@
             "ignore_defense_pct": 5
         },
         "monster_familiar": {
-        	"primary_stat": 10,
-        	"secondary_stat": 10
+            "primary_stat": 10,
+            "secondary_stat": 10
         },
         "bits": {
             "attack": 13

@@ -60,7 +60,6 @@
         "ring": [
             {
                 "name": "新星戒指",
-                "max_repeat": 1,
                 "primary_stat": 47,
                 "secondary_stat": 41,
                 "all_stat_pct": 0,
@@ -77,7 +76,6 @@
             },
             {
                 "name": "銀花戒指 (Silver Blossom Ring)",
-                "max_repeat": 1,
                 "primary_stat": 34,
                 "secondary_stat": 36,
                 "all_stat_pct": 6,
@@ -94,7 +92,6 @@
             },
             {
                 "name": "真‧降魔的十字旅團的戒指",
-                "max_repeat": 1,
                 "primary_stat": 33,
                 "secondary_stat": 39,
                 "all_stat_pct": 0,
@@ -111,7 +108,6 @@
             },
             {
                 "name": "白金十字戒指 (Platinum Cross Ring)",
-                "max_repeat": 1,
                 "primary_stat": 36,
                 "secondary_stat": 31,
                 "all_stat_pct": 0,

@@ -2,26 +2,26 @@
     "info": {
         "name": "ShawnChang",
         "job": "槍神 (Corsair)",
-        "level": 215
+        "level": 210
     },
     "ability": {
         "base": {
-            "primary_stat": 1093,
+            "primary_stat": 1068,
             "secondary_stat": 4,
             "critical_rate": 5,
             "min_critical_damage": 30,
-            "max_critical_damage": 60
+            "max_critical_damage": 50
         },
         "weapon": {
             "multiplier": 1.5,
             "attack_speed": 8.33
         },
         "inner_ability": {
-            "primary_stat": 3,
-            "secondary_stat": 0,
+            "primary_stat": 37,
+            "secondary_stat": 41,
             "attack": 0,
-            "damage_pct": 2,
-            "boss_damage_pct": 20,
+            "damage_pct": 0,
+            "boss_damage_pct": 0,
             "ignore_defense_pct": 0,
             "damage_conversion": 0
         },
@@ -31,10 +31,10 @@
             "all_stat_pct": 0,
             "primary_stat_pct": 0,
             "secondary_stat_pct": 0,
-            "attack": 863,
+            "attack": 0,
             "attack_pct": 0,
             "damage_pct": 0,
-            "boss_damage_pct": 6,
+            "boss_damage_pct": 0,
             "ignore_defense_pct": 0,
             "bonus_damage": 0
         },
@@ -43,14 +43,14 @@
             "secondary_stat": 0,
             "damage_pct": 30,
             "boss_damage_pct": 35,
-            "ignore_defense_pct": 21,
-            "critical_rate": 0,
+            "ignore_defense_pct": 18,
+            "critical_rate": 3,
             "min_critical_damage": 4,
-            "max_critical_damage": 11
+            "max_critical_damage": 9
         },
         "trait": {
-            "ignore_defense_pct": 10.0,
-            "ignore_resistance_pct": 2.5
+            "ignore_defense_pct": 7.5,
+            "ignore_resistance_pct": 1.0
         }
     },
     "equipment_size": {
@@ -75,30 +75,13 @@
                 "max_critical_damage": 0
             },
             {
-                "name": "頂級培羅德戒指 (Superior Gollux Ring)",
-                "set": "優良巨木靈組 (Superior Gollux Set)",
-                "primary_stat": 38,
-                "secondary_stat": 38,
-                "all_stat_pct": 9,
-                "primary_stat_pct": 21,
+                "name": "銀花戒指 (Silver Blossom Ring)",
+                "primary_stat": 34,
+                "secondary_stat": 36,
+                "all_stat_pct": 6,
+                "primary_stat_pct": 0,
                 "secondary_stat_pct": 0,
-                "attack": 53,
-                "attack_pct": 0,
-                "damage_pct": 0,
-                "boss_damage_pct": 0,
-                "ignore_defense_pct": 0,
-                "critical_rate": 0,
-                "min_critical_damage": 0,
-                "max_critical_damage": 0
-            },
-            {
-                "name": "天上的氣息",
-                "primary_stat": 53,
-                "secondary_stat": 59,
-                "all_stat_pct": 0,
-                "primary_stat_pct": 33,
-                "secondary_stat_pct": 0,
-                "attack": 33,
+                "attack": 2,
                 "attack_pct": 0,
                 "damage_pct": 0,
                 "boss_damage_pct": 0,
@@ -109,12 +92,28 @@
             },
             {
                 "name": "真‧降魔的十字旅團的戒指",
-                "primary_stat": 35,
+                "primary_stat": 33,
                 "secondary_stat": 39,
                 "all_stat_pct": 0,
                 "primary_stat_pct": 6,
                 "secondary_stat_pct": 0,
                 "attack": 3,
+                "attack_pct": 0,
+                "damage_pct": 0,
+                "boss_damage_pct": 0,
+                "ignore_defense_pct": 0,
+                "critical_rate": 0,
+                "min_critical_damage": 0,
+                "max_critical_damage": 0
+            },
+            {
+                "name": "白金十字戒指 (Platinum Cross Ring)",
+                "primary_stat": 36,
+                "secondary_stat": 31,
+                "all_stat_pct": 0,
+                "primary_stat_pct": 0,
+                "secondary_stat_pct": 0,
+                "attack": 1,
                 "attack_pct": 0,
                 "damage_pct": 0,
                 "boss_damage_pct": 0,
@@ -142,14 +141,13 @@
         },
         "pendant": [
             {
-                "name": "頂級培羅德烙印墜飾 (Superior Engraved Gollux Pendant)",
-                "set": "優良巨木靈組 (Superior Gollux Set)",
-                "primary_stat": 56,
-                "secondary_stat": 56,
-                "all_stat_pct": 6,
-                "primary_stat_pct": 24,
+                "name": "強力的魔性首飾",
+                "primary_stat": 72,
+                "secondary_stat": 63,
+                "all_stat_pct": 0,
+                "primary_stat_pct": 7,
                 "secondary_stat_pct": 0,
-                "attack": 45,
+                "attack": 2,
                 "attack_pct": 0,
                 "damage_pct": 0,
                 "boss_damage_pct": 0,
@@ -160,31 +158,30 @@
             }
         ],
         "weapon": {
-            "name": "航海師手槍 (AbsoLab Point Gun)",
-            "set": "絕對實驗室組(海盜) (Absolute Labs Set (Pirate))",
-            "primary_stat": 188,
-            "secondary_stat": 188,
+            "name": "夫尼爾轉輪手槍 (Fafnir Zeliska)",
+            "set": "根源深淵組(海盜) (Root Abyss Set (Pirate))",
+            "primary_stat": 136,
+            "secondary_stat": 150,
             "all_stat_pct": 0,
-            "primary_stat_pct": 13,
+            "primary_stat_pct": 0,
             "secondary_stat_pct": 0,
-            "attack": 342,
-            "attack_pct": 13,
+            "attack": 280,
+            "attack_pct": 0,
             "damage_pct": 0,
-            "boss_damage_pct": 65,
-            "ignore_defense_pct": [10],
+            "boss_damage_pct": 30,
+            "ignore_defense_pct": [10, 30, 15],
             "critical_rate": 0,
             "min_critical_damage": 0,
             "max_critical_damage": 0
         },
         "belt": {
-            "name": "頂級培羅德烙印皮帶 (Superior Engraved Gollux Belt)",
-            "set": "優良巨木靈組 (Superior Gollux Set)",
-            "primary_stat": 96,
-            "secondary_stat": 88,
-            "all_stat_pct": 6,
-            "primary_stat_pct": 24,
+            "name": "神秘腰帶",
+            "primary_stat": 84,
+            "secondary_stat": 78,
+            "all_stat_pct": 0,
+            "primary_stat_pct": 6,
             "secondary_stat_pct": 0,
-            "attack": 50,
+            "attack": 30,
             "attack_pct": 0,
             "damage_pct": 0,
             "boss_damage_pct": 0,
@@ -194,14 +191,14 @@
             "max_critical_damage": 0
         },
         "cap": {
-            "name": "航海師海盜帽 (AbsoLab Pirate Fedora)",
-            "set": "絕對實驗室組(海盜) (Absolute Labs Set (Pirate))",
-            "primary_stat": 73,
-            "secondary_stat": 73,
-            "all_stat_pct": 10,
-            "primary_stat_pct": 10,
+            "name": "高貴的漫遊者帽 (Royal Wanderer Hat)",
+            "set": "根源深淵組(海盜) (Root Abyss Set (Pirate))",
+            "primary_stat": 80,
+            "secondary_stat": 68,
+            "all_stat_pct": 0,
+            "primary_stat_pct": 8,
             "secondary_stat_pct": 0,
-            "attack": 90,
+            "attack": 62,
             "attack_pct": 0,
             "damage_pct": 0,
             "boss_damage_pct": 0,
@@ -262,14 +259,14 @@
         "pants": {
         },
         "shoes": {
-            "name": "航海師海盜鞋 (AbsoLab Pirate Shoes)",
-            "set": "絕對實驗室組(海盜) (Absolute Labs Set (Pirate))",
-            "primary_stat": 48,
-            "secondary_stat": 48,
+            "name": "須佐之男的鞋子 (Amaterasu's Shoes)",
+            "set": "須佐之男組 (Amaterasu Set)",
+            "primary_stat": 70,
+            "secondary_stat": 50,
             "all_stat_pct": 0,
-            "primary_stat_pct": 13,
-            "secondary_stat_pct": 10,
-            "attack": 61,
+            "primary_stat_pct": 6,
+            "secondary_stat_pct": 0,
+            "attack": 3,
             "attack_pct": 0,
             "damage_pct": 0,
             "boss_damage_pct": 0,
@@ -296,14 +293,14 @@
             "max_critical_damage": 0
         },
         "shoulder": {
-            "name": "航海師海盜肩膀 (AbsoLab Pirate Shoulder)",
-            "set": "絕對實驗室組(海盜) (Absolute Labs Set (Pirate))",
-            "primary_stat": 42,
-            "secondary_stat": 42,
+            "name": "須佐之男的肩章 (Amaterasu's Eqaulet)",
+            "set": "須佐之男組 (Amaterasu Set)",
+            "primary_stat": 38,
+            "secondary_stat": 34,
             "all_stat_pct": 0,
-            "primary_stat_pct": 10,
-            "secondary_stat_pct": 10,
-            "attack": 24,
+            "primary_stat_pct": 3,
+            "secondary_stat_pct": 0,
+            "attack": 7,
             "attack_pct": 0,
             "damage_pct": 0,
             "boss_damage_pct": 0,
@@ -313,20 +310,19 @@
             "max_critical_damage": 0
         },
         "gloves": {
-            "name": "航海師海盜手套 (AbsoLab Pirate Gloves)",
-            "set": "絕對實驗室組(海盜) (Absolute Labs Set (Pirate))",
-            "primary_stat": 48,
-            "secondary_stat": 54,
+            "name": "高級次元手套 (High Quality Dimension Gloves)",
+            "primary_stat": 46,
+            "secondary_stat": 46,
             "all_stat_pct": 0,
-            "primary_stat_pct": 0,
-            "secondary_stat_pct": 0,
-            "attack": 65,
+            "primary_stat_pct": 6,
+            "secondary_stat_pct": 3,
+            "attack": 30,
             "attack_pct": 0,
             "damage_pct": 0,
             "boss_damage_pct": 0,
             "ignore_defense_pct": 0,
             "critical_rate": 0,
-            "min_critical_damage": 16,
+            "min_critical_damage": 0,
             "max_critical_damage": 0
         },
         "android": {
@@ -347,16 +343,16 @@
         },
         "emblem": {
             "name": "黃金楓葉腰帶 (Gold Maple Leaf Emblem)",
-            "primary_stat": 15,
-            "secondary_stat": 15,
+            "primary_stat": 10,
+            "secondary_stat": 10,
             "all_stat_pct": 0,
-            "primary_stat_pct": 0,
+            "primary_stat_pct": 9,
             "secondary_stat_pct": 0,
             "attack": 2,
-            "attack_pct": 12,
-            "damage_pct": 12,
+            "attack_pct": 0,
+            "damage_pct": 0,
             "boss_damage_pct": 0,
-            "ignore_defense_pct": [35],
+            "ignore_defense_pct": 0,
             "critical_rate": 0,
             "min_critical_damage": 0,
             "max_critical_damage": 0
@@ -378,13 +374,13 @@
             "max_critical_damage": 0
         },
         "medal": {
-            "name": "Reboot達人勳章",
-            "primary_stat": 21,
-            "secondary_stat": 21,
+            "name": "飛龍在天派門徒 (Gold Dragon Student)",
+            "primary_stat": 15,
+            "secondary_stat": 15,
             "all_stat_pct": 0,
             "primary_stat_pct": 0,
             "secondary_stat_pct": 0,
-            "attack": 21,
+            "attack": 5,
             "attack_pct": 0,
             "damage_pct": 0,
             "boss_damage_pct": 0,
@@ -410,14 +406,13 @@
             "max_critical_damage": 0
         },
         "cape": {
-            "name": "航海師海盜披肩 (AbsoLab Pirate Cape)",
-            "set": "絕對實驗室組(海盜) (Absolute Labs Set (Pirate))",
-            "primary_stat": 43,
-            "secondary_stat": 43,
-            "all_stat_pct": 17,
-            "primary_stat_pct": 0,
-            "secondary_stat_pct": 13,
-            "attack": 58,
+            "name": "塔蘭特亞泰爾斗篷 (Tyrant Altair Cloak)",
+            "primary_stat": 165,
+            "secondary_stat": 165,
+            "all_stat_pct": 3,
+            "primary_stat_pct": 6,
+            "secondary_stat_pct": 0,
+            "attack": 54,
             "attack_pct": 0,
             "damage_pct": 0,
             "boss_damage_pct": 0,
@@ -476,13 +471,13 @@
                 "max_critical_damage": 0
             },
             {
-                "name": "小筱精靈圖騰",
-                "primary_stat": 40,
-                "secondary_stat": 40,
+                "name": "醫院長圖騰 (Hospital Director Totem)",
+                "primary_stat": 28,
+                "secondary_stat": 28,
                 "all_stat_pct": 0,
                 "primary_stat_pct": 0,
                 "secondary_stat_pct": 0,
-                "attack": 15,
+                "attack": 8,
                 "attack_pct": 0,
                 "damage_pct": 0,
                 "boss_damage_pct": 0,
@@ -497,10 +492,6 @@
         "cash_weapon": {
         },
         "cash_cap": {
-            "name": "奇異的狐狸面具",
-            "primary_stat": 20,
-            "secondary_stat": 20,
-            "attack": 15
         },
         "cash_fore_head": {
         },
@@ -544,31 +535,6 @@
         }
     },
     "set": {
-        "絕對實驗室組(海盜) (Absolute Labs Set (Pirate))": {
-            "2": {
-                "attack": 20
-            },
-            "3": {
-                "primary_stat": 30,
-                "secondary_stat": 30,
-                "attack": 25
-            },
-            "4": {
-                "attack": 30,
-                "ignore_defense_pct": [10]
-            },
-            "5": {
-                "attack": 20,
-                "boss_damage_pct": 30
-            },
-            "6": {
-                "attack": 20
-            },
-            "7": {
-                "attack": 20,
-                "ignore_defense_pct": [10]
-            }
-        },
         "優良巨木靈組 (Superior Gollux Set)": {
             "2": {
                 "primary_stat": 20,
@@ -581,12 +547,44 @@
                 "boss_damage_pct": 30,
                 "ignore_defense_pct": [30]
             }
+        },
+        "根源深淵組(海盜) (Root Abyss Set (Pirate))": {
+            "2": {
+                "primary_stat": 20,
+                "secondary_stat": 20
+            },
+            "3": {
+                "attack": 50
+            },
+            "4": {
+                "boss_damage_pct": 30
+            }
+        },
+        "須佐之男組 (Amaterasu Set)": {
+            "2": {
+                "primary_stat": 10,
+                "secondary_stat": 10
+            },
+            "6": {
+                "attack": 20,
+                "boss_damage_pct": 35
+            },
+            "7": {
+                "primary_stat": 30,
+                "secondary_stat": 30,
+                "critical_rate": 8
+            },
+            "8": {
+                "all_stat_pct": 7,
+                "attack": 30,
+                "damage_pct": 10
+            }
         }
     },
     "skill": {
         "mastery": 85,
         "maple_warrior": 15,
-        "active_damage_pct": 100,
+        "active_damage_pct": 320,
         "active_attack_count": 1,
         "blessing": {
             "attack": 24
@@ -597,16 +595,6 @@
             "attack": 5
         },
         "link": {
-            "primary_stat": 0,
-            "secondary_stat": 0,
-            "all_stat_pct": 0,
-            "attack": 0,
-            "damage_pct": 10,
-            "boss_damage_pct": 15,
-            "ignore_defense_pct": [15],
-            "critical_rate": 15,
-            "min_critical_damage": 0,
-            "max_critical_damage": 0
         },
         "permanent": {
             "primary_stat": 30,
@@ -614,22 +602,19 @@
             "all_stat_pct": 0,
             "primary_stat_pct": 0,
             "secondary_stat_pct": 0,
-            "attack": 60,
+            "attack": 30,
             "attack_pct": 0,
             "damage_pct": 20,
             "boss_damage_pct": 0,
             "ignore_defense_pct": [20],
             "critical_rate": 50,
             "min_critical_damage": 10,
-            "max_critical_damage": 0
+            "max_critical_damage": 10
         },
         "buff": {
-            "attack": 105,
+            "attack": 30,
             "attack_pct": 20,
-            "damage_pct": 60,
-            "boss_damage_pct": 20,
-            "ignore_defense_pct": [20],
-            "final_damage_list": [[], [], [300], []]
+            "critical_rate": 15
         }
     },
     "misc": {
@@ -640,16 +625,14 @@
             "primary_stat": 7,
             "secondary_stat": 7,
             "attack": 5,
-            "ignore_defense_pct": [5]
+            "ignore_defense_pct": 5
         },
         "monster_familiar": {
             "primary_stat": 10,
-            "secondary_stat": 10,
-            "attack": 8,
-            "final_damage_list": [[8]]
+            "secondary_stat": 10
         },
         "bits": {
-            "attack": 79
+            "attack": 13
         }
     }
 }

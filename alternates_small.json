@@ -405,7 +405,7 @@
         ],
         "shoes": [
             {
-                "name": "航海師海盜鞋 (AbsoLab Pirate Shoes?)",
+                "name": "航海師海盜鞋 (AbsoLab Pirate Shoes)",
                 "category": "armor",
                 "superior": false,
                 "required_level": 160,
@@ -511,7 +511,7 @@
         ],
         "gloves": [
             {
-                "name": "航海師海盜手套 (AbsoLab Pirate Gloves?)",
+                "name": "航海師海盜手套 (AbsoLab Pirate Gloves)",
                 "category": "armor",
                 "superior": false,
                 "required_level": 160,

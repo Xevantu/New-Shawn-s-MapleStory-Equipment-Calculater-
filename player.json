@@ -212,12 +212,12 @@
         },
         "fore_head": {
             "name": "波賽頓紋身 (Sweetwater Tattoo)",
-            "primary_stat": 33,
+            "primary_stat": 50,
             "secondary_stat": 33,
             "all_stat_pct": 7,
             "primary_stat_pct": 26,
-            "secondary_stat_pct": 0,
-            "attack": 42,
+            "secondary_stat_pct": 6,
+            "attack": 54,
             "attack_pct": 0,
             "damage_pct": 0,
             "boss_damage_pct": 0,
@@ -646,7 +646,7 @@
             "primary_stat": 10,
             "secondary_stat": 10,
             "attack": 8,
-            "final_damage_list": [[8]]
+            "final_damage_list": [[8], [], [], []]
         },
         "bits": {
             "attack": 79

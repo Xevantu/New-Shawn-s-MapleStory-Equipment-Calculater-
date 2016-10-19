@@ -1,7 +1,8 @@
 {
     "type": "boss",
+    "name": "混沌貝倫 (Chaos Vellum)",
     "ability": {
-        "hp": 200000000000,
+        "hp": 120000000000,
         "defense": 300,
         "resistance": -0.5
     }
